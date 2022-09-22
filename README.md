@@ -8,4 +8,4 @@ The Windows versions of the game have this launcher shipped in a binary form.
 Under other OSes it needs to be compiled by hand.
 
 # Building
-Just run `make` from the main directory. Development packages of wxWidgets will be needed, according to your distro.
+Just run `make` from the main directory. Development packages of `wxWidgets` will be needed, according to your distro.
